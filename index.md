@@ -74,6 +74,7 @@
 
 ### [contact with me](https://web.telegram.org/#/im?p=@fatememosaee)
  - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
+ - Persian resume: <a href="https://fatememosaee.github.io/Resume-farsi/"> Resume </a>
 
 
 ---
