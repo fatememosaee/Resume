@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fatememosaee/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###Fatememosaee
+<img src="https://avatars.githubusercontent.com/u/72305540?v=4" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal informations
 
-### Markdown
+---
+<ol>
+  <li> Name: Fateme</li>
+  <li> Last name :mosaee</li>
+  <li> Date of birth : 1999/nov/14</li>
+  <li> Martial status : Single</li>
+  <li> I am a trader and Computer engineering student</li>
+  <li> Location : Tehran , Iran</li>
+</ol>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Skill Highlights
 
-# Header 1
-## Header 2
-### Header 3
+---
+<ol>
+  <li>English translation</li>
+  <li>corel draw</li>
+  <li>Designing the logo</li>
+<li>illustration</li>
+<li>ICDL1</li>
+</ol>
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+---
+<ol>
+<li> Diploma :Farhang school
+  _ 2015</li>
+<li> Bachelor of science : computer Engineering
+  _ 2018,payam Noor University of varamin  </li>
+</ol>
 
-**Bold** and _Italic_ and `Code` text
+### Favorites
 
-[Link](url) and ![Image](src)
-```
+---
+<ol>
+  <li> travel </li>
+  <li> watch movie</li>
+</ol>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Speaking language
 
-### Jekyll Themes
+---
+<ol> 
+  <li> Persian</li>
+  <li> Turkish</li>
+  <li> Azeri</li>
+  <li> English</li>
+</ol>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatememosaee/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Programing language
 
-### Support or Contact
+---
+<ol>
+ <li> Android</li>
+ <li> IOS</li>
+ <li> Java Script</li>
+  <li> HTML</li>
+ <li> CSS</li>
+</ol>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### working Experience
+
+---
+<ol>
+  <li> I'm not working anywhere </li>
+</ol>
+
+### [contact with me](https://web.telegram.org/#/im?p=@fatememosaee)
+ - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
+
+
+---
